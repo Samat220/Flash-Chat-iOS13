@@ -1,16 +1,16 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+This is part of iOS Development Course by AppBrewery.
 
 # Flash-Chat
 
-## Our Goal
+## Goal
 
-One of the most fundamental component of modern iOS apps is the Table View. Table Views are used everywhere from the Mail app to the Messages app. It’s a crucial part of every iOS developer’s tool belt. In this tutorial we’ll be getting to grips with Table Views, creating custom cells, and making our own cloud-based backend database. It’s going to be epic, so buckle up.
+One of the most fundamental component of modern iOS apps is the Table View. Table Views are used everywhere from the Mail app to the Messages app. It’s a crucial part of every iOS developer’s tool belt. In this tutorial we’ll be getting to grips with Table Views, creating custom cells, and making our own cloud-based backend database.
 
-## What you will create
+## What is created
 
 Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. We will be using a service called Firebase Firestore as a backend database to store and retrieve our messages from the cloud. 
 
-## What you will learn
+## What was learnt
 
 * How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
 * How to store data in the cloud using Firebase Firestore.
